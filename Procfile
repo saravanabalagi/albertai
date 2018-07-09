@@ -1,1 +1,1 @@
-web: python listen.py
+worker: python listen.py
